@@ -1,4 +1,4 @@
-# ♻️ Waste Management System - Frontend
+# ♻️ Waste Management System - Backend
 
 A comprehensive waste management solution built for **Smart India Hackathon (PS-60)** that enables efficient waste collection, tracking, and management through a role-based web application.
 
