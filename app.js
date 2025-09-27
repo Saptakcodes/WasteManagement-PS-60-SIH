@@ -6,7 +6,6 @@ import authRoutes from "./routes/authRoutes.js";
 import cookieParser from "cookie-parser";
 import connectDB from "./utils/ConnectDB.js";
 
-
 // app setup
 const app = express();
 
